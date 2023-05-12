@@ -1,0 +1,30 @@
+#button{
+    position: relative;
+    background-color: rgba(41, 41, 225, 0.559);
+}
+#row{
+    position: relative;
+    left: -30rem;
+    top: 5rem;
+    display: flex;
+    justify-content: space-evenly;
+    top: 2rem;
+}
+#contain{
+    position: relative;
+    height: 15rem;
+}
+#text{
+    position: relative;
+    text-align: center;
+    top: -5rem;
+    left: 17rem;
+}
+#img{
+    position: relative;
+    left: 22rem;
+}
+#titles{
+    color: #0087DB;
+    font-weight: bold;
+}
